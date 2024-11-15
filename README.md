@@ -12,4 +12,4 @@ Make sure index.js is on or/ debugging before using usingAPI.js otherwise you'll
 Index.js for main API code      
 usingAPI.js to use the API 
 
-This API is hosted on the local host you may research further on how to host this api on a website.
+This API is hosted on the local host you need to research further on how to host this api on a website.
