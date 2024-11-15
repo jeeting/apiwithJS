@@ -7,7 +7,7 @@ I made one using the javascript package called 'express' and utilizing the API v
 express - npm install express      
 node-fetch - npm install node-fetch
 
-**NOTE**
+**NOTE** 
 Make sure index.js is on or/ debugging before using usingAPI.js otherwise you'll get a error
 Index.js for main API code
 usingAPI.js to use the API
