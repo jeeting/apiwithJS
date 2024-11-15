@@ -1,6 +1,6 @@
 # Creating API's with Javascript
 
-Creating api's with javascript is not hard but sometimes not easy, this repo will show you what a API made with javascript looks like
+Creating api's with javascript is not hard but sometimes not easy, this repo will show you what a API made with javascript looks like      
 I made one using the javascript package called 'express' and utilizing the API via node-fetch
 
 **PACKAGES**                
