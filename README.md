@@ -8,8 +8,8 @@ express - npm install express
 node-fetch - npm install node-fetch
 
 **NOTE** 
-Make sure index.js is on or/ debugging before using usingAPI.js otherwise you'll get a error
-Index.js for main API code
-usingAPI.js to use the API
+Make sure index.js is on or/ debugging before using usingAPI.js otherwise you'll get a error 
+Index.js for main API code 
+usingAPI.js to use the API 
 
 This API is hosted on the local host you may research further on how to host this api on a website.
