@@ -4,7 +4,7 @@ Creating api's with javascript is not hard but sometimes not easy, this repo wil
 I made one using the javascript package called 'express' and utilizing the API via node-fetch
 
 **PACKAGES**                
-express - npm install express
+express - npm install express      
 node-fetch - npm install node-fetch
 
 **NOTE**
